@@ -43,9 +43,4 @@ This is an open-source Discord Bot that you can use to learn how to code your ow
 If you do the help command, it will show you all the commands in the bot!
 
 ---------------------------
-### Thank you for taking the time to look at the GitHub Repo! If you would like to contact me, here are my discord servers!
-<li>https://discord.gg/bv6gaxq</li>
-<li>https://invite.gg/ics</li>
 
-### DeathHound6's Server!
-<li>https://discord.gg/QA9ZXpV</li>
